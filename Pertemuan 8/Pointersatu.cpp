@@ -16,7 +16,7 @@ int main()
     
     
     
-
+    
     mahasiswa &refmhs = mhs; // pointer reference reMhs
     refmhs.nim = 2;
     mhs.showNim();
